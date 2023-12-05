@@ -1,32 +1,34 @@
 {
-  "0": [
-    0,
-    "Memórias Póstumas De Brás Cubas",
-    "Machado De Assis",
-    "Principis",
-    "2019",
-    "Preço",
-    "https://covers.openlibrary.org/b/id/12462382-L.jpg",
-    "Não tive filhos, não transmiti a nenhuma criatura o legado da nossa miséria. Com essas palavras, o narrador de Memórias Póstumas de Brás Cubas resume a sua vida. O tom assumido na obra, bem como as técnicas empregadas na composição romanesca, são alguns dos fatores que justificam o lugar de Machado de Assis entre os maiores escritores do século XIX. Neste romance repleto de digressões filosóficas, o escritor se vale da posição privilegiada de Brás Cubas, que, como defunto autor, narra as suas desventuras e revela as contradições da sociedade brasileira do século XIX, por meio de uma análise aprofundada de seus personagens."
-  ],
-  "1": [
-    1,
-    "Dom Casmurro",
-    "Machado De Assis",
-    "Penguin-Companhia",
-    "2016",
-    "Preço",
-    "https://covers.openlibrary.org/b/id/12372756-L.jpg",
-    "Poucos romances examinam com tanta sutileza as artimanhas do ciúme como Dom Casmurro. Publicado em 1899, o livro permanece ainda hoje como um dos mais fascinantes estudos da traição. Aliás, como o leitor mais atento perceberá, são supostamente duas: a de Capitu, exposta pelo marido Bentinho, e a própria narrativa sobre como Bentinho modifica os fatos para corroborar suas suspeitas matrimoniais. Tudo isso é narrado com graça e inteligência num romance que jamais parece esgotar suas possibilidades de leitura. Críticos como Roberto Schwarz e Susan Sontag consideram a obra de Machado como um dos momentos mais altos da prosa ocidental do final do século XIX."
-  ],
-  "2": [
-    2,
-    "Quincas Borba",
-    "Machado De Assis",
-    "Penguin-Companhia",
-    "2012",
-    "Preço",
-    "https://covers.openlibrary.org/b/id/12372642-L.jpg",
-    "Publicado pela primeira vez em livro em 1891, depois portanto de Memórias póstumas de Brás Cubas (1881) e antes de Dom Casmurro (1899), Quincas Borba é uma das obras mais marcantes da fase realista de Machado de Assis. Talvez por se situar justamente entre esses dois monumentos da obra machadiana, o romance muitas vezes foi considerado uma realização menor, uma espécie de mera continuação das Memórias póstumas - para irritação de seu autor, que em um raro comentário sobre a própria ficção afirmou que a presença do personagem Quincas Borba era “o único vínculo” entre os dois livros. Mais do que ao marco inaugural do Realismo no Brasil, porém, Quincas Borba remete ao Machado contista que começava a abordar temas historicamente mais próximos de sua época e a explorar os conflitos psicológicos de seus personagens com sua sofisticada e irônica narrativa em terceira pessoa presente em contos clássicos como “A cartomante” e “A causa secreta”. Neste romance da maturidade do autor, a história do provinciano Rubião - herdeiro da fortuna do idiossincrático filósofo Quincas Borba - e dos tipos urbanos da corte que o levam à ruína é narrada com o distanciamento, o ceticismo e o senso de humor implacável de que só Machado de Assis era capaz. Esta edição de Quincas Borba, além de mais uma centena de notas explicativas, traz uma extensa e abrangente introdução do britânico John Gledson, estudioso da obra machadiana e tradutor de Dom Casmurro para o inglês."
+  "books": [
+    "0": [
+      0,
+      "Memórias Póstumas De Brás Cubas",
+      "Machado De Assis",
+      "Principis",
+      "2019",
+      "Preço",
+      "https://covers.openlibrary.org/b/id/12462382-L.jpg",
+      "Não tive filhos, não transmiti a nenhuma criatura o legado da nossa miséria. Com essas palavras, o narrador de Memórias Póstumas de Brás Cubas resume a sua vida. O tom assumido na obra, bem como as técnicas empregadas na composição romanesca, são alguns dos fatores que justificam o lugar de Machado de Assis entre os maiores escritores do século XIX. Neste romance repleto de digressões filosóficas, o escritor se vale da posição privilegiada de Brás Cubas, que, como defunto autor, narra as suas desventuras e revela as contradições da sociedade brasileira do século XIX, por meio de uma análise aprofundada de seus personagens."
+    ],
+    "1": [
+      1,
+      "Dom Casmurro",
+      "Machado De Assis",
+      "Penguin-Companhia",
+      "2016",
+      "Preço",
+      "https://covers.openlibrary.org/b/id/12372756-L.jpg",
+      "Poucos romances examinam com tanta sutileza as artimanhas do ciúme como Dom Casmurro. Publicado em 1899, o livro permanece ainda hoje como um dos mais fascinantes estudos da traição. Aliás, como o leitor mais atento perceberá, são supostamente duas: a de Capitu, exposta pelo marido Bentinho, e a própria narrativa sobre como Bentinho modifica os fatos para corroborar suas suspeitas matrimoniais. Tudo isso é narrado com graça e inteligência num romance que jamais parece esgotar suas possibilidades de leitura. Críticos como Roberto Schwarz e Susan Sontag consideram a obra de Machado como um dos momentos mais altos da prosa ocidental do final do século XIX."
+    ],
+    "2": [
+      2,
+      "Quincas Borba",
+      "Machado De Assis",
+      "Penguin-Companhia",
+      "2012",
+      "Preço",
+      "https://covers.openlibrary.org/b/id/12372642-L.jpg",
+      "Publicado pela primeira vez em livro em 1891, depois portanto de Memórias póstumas de Brás Cubas (1881) e antes de Dom Casmurro (1899), Quincas Borba é uma das obras mais marcantes da fase realista de Machado de Assis. Talvez por se situar justamente entre esses dois monumentos da obra machadiana, o romance muitas vezes foi considerado uma realização menor, uma espécie de mera continuação das Memórias póstumas - para irritação de seu autor, que em um raro comentário sobre a própria ficção afirmou que a presença do personagem Quincas Borba era “o único vínculo” entre os dois livros. Mais do que ao marco inaugural do Realismo no Brasil, porém, Quincas Borba remete ao Machado contista que começava a abordar temas historicamente mais próximos de sua época e a explorar os conflitos psicológicos de seus personagens com sua sofisticada e irônica narrativa em terceira pessoa presente em contos clássicos como “A cartomante” e “A causa secreta”. Neste romance da maturidade do autor, a história do provinciano Rubião - herdeiro da fortuna do idiossincrático filósofo Quincas Borba - e dos tipos urbanos da corte que o levam à ruína é narrada com o distanciamento, o ceticismo e o senso de humor implacável de que só Machado de Assis era capaz. Esta edição de Quincas Borba, além de mais uma centena de notas explicativas, traz uma extensa e abrangente introdução do britânico John Gledson, estudioso da obra machadiana e tradutor de Dom Casmurro para o inglês."
+    ]
   ]
 }
