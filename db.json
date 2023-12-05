@@ -6,8 +6,11 @@
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
   "books": [
-    {"id": 0, "body": "some comment", "postId": 100},
-    {"id": 1, "body": "some comment", "postId": 200}
+    {"id": 0, "title": "Title", "author": "Author", "publisher": "Pub", "year": "2008", "cover": "ok", "description": "."},
+    {"id": 1, "title": "Title", "author": "Author", "publisher": "Pub", "year": "2008", "cover": "ok", "description": "."},
+    {"id": 2, "title": "Title", "author": "Author", "publisher": "Pub", "year": "2008", "cover": "ok", "description": "."},
+    {"id": 3, "title": "Title", "author": "Author", "publisher": "Pub", "year": "2008", "cover": "ok", "description": "."},
+    {"id": 4, "title": "Title", "author": "Author", "publisher": "Pub", "year": "2008", "cover": "ok", "description": "."},
   ],
   "profile": { "name": "typicode" }
 }
